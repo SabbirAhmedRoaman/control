@@ -1,0 +1,8 @@
+{
+  "active_status": "lock",
+  "statuses": {
+    "unlock": "App is running normally.",
+    "lock": "Lock: This app is currently locked by the administrator. Please communicate with Admin.",
+    "upgrade": "Upgrade: This app is currently in maintenance. Try sometime later or contact with Admin."
+  }
+}
