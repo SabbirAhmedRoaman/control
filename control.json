@@ -1,5 +1,5 @@
 {
-  "active_status": "lock",
+  "active_status": "upgrade",
   "statuses": {
     "unlock": "App is running normally.",
     "lock": "Lock: This app is currently locked by the administrator. Please communicate with Admin.",
